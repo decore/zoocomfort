@@ -1,0 +1,159 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		
+		<title></title>
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<div class="container">
+
+			<div class="row">
+				<div class="col-xs-12 top">
+					<a href="http://www.zoocomfort.ru">
+						<img src="img/base/link.png">
+					</a>
+					<a href="#"><img src="img/base/button.png"></a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-xs-12 header">
+					<img src="img/base/line-1.png">
+					<h1>корма для <span class="brown">кошек</span></h1>
+					<img src="img/base/line-2.png">
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-xs-6 left-words">
+						<h2>премиум</h2>
+						<img src="img/dog-blocks/block1-1.png">
+					</div>
+					<div class="col-xs-6 right-words">
+						<h2><span class="super">супер </span>премиум</h2>
+						<img src="img/dog-blocks/block1-2.png">
+					</div>
+
+					<img src="img/base/line-1.png">
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block2-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block2-2.png">
+					</div>
+					
+					<div class="col-xs-12 call-block">
+						<ul>
+							<li><img src="img/base/phone-number.png"></li>
+							<li><img src="img/base/phone.png"></li>
+							<li><img src="img/base/button.png"></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block3-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block3-2.png">
+					</div>
+					<img src="img/base/line-1.png">
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block4-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block4-2.png">
+					</div>
+					<div class="col-xs-12 call-block">
+						<ul>
+							<li><img src="img/base/phone-number.png"></li>
+							<li><img src="img/base/phone.png"></li>
+							<li><img src="img/base/button.png"></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block5-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block5-2.png">
+					</div>
+					<img src="img/base/line-1.png">
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block6-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block6-2.png">
+					</div>
+					<div class="col-xs-12 call-block">
+						<ul>
+							<li><img src="img/base/phone-number.png"></li>
+							<li><img src="img/base/phone.png"></li>
+							<li><img src="img/base/button.png"></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block7-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block7-2.png">
+					</div>
+					<img src="img/base/line-1.png">
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block8-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block8-2.png">
+					</div>
+					<div class="col-xs-12 call-block">
+						<ul>
+							<li><img src="img/base/phone-number.png"></li>
+							<li><img src="img/base/phone.png"></li>
+							<li><img src="img/base/button.png"></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block9-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block9-2.png">
+					</div>
+					<img src="img/base/line-1.png">
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block10-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block10-2.png">
+					</div>
+					<img src="img/base/line-1.png">
+
+					<div class="col-xs-6 left">
+						<img src="img/dog-blocks/block11-1.png">
+					</div>
+					<div class="col-xs-6 right">
+						<img src="img/dog-blocks/block11-2.png">
+					</div>
+					
+					<div class="col-xs-12 call-block">
+						<ul>
+							<li><img src="img/base/phone-number.png"></li>
+							<li><img src="img/base/phone.png"></li>
+							<li><img src="img/base/button.png"></li>
+						</ul>
+					</div>
+				</div>
+
+		</div>
+	</body>
+</html>
